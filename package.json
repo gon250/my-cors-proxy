@@ -1,0 +1,25 @@
+{
+  "name": "my-cors-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for my personal usage powered by cors-anywhere",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gon250/my-cors-proxy.git"
+  },
+  "keywords": [
+    "cors"
+  ],
+  "author": "Remo H. Jansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gon250/my-cors-proxy.git/issues"
+  },
+  "homepage": "https://github.com/gon250/my-cors-proxy.git",
+  "dependencies": {
+    "cors-anywhere": "^0.2.5"
+  }
+}
